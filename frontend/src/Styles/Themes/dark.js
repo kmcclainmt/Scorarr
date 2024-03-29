@@ -61,16 +61,16 @@ module.exports = {
 
   // Sidebar
 
-  sidebarColor: '#e1e2e3',
+  sidebarColor: '#03989E',
   sidebarBackgroundColor: '#2a2a2a',
   sidebarActiveBackgroundColor: '#333333',
 
   // Toolbar
-  toolbarColor: '#e1e2e3',
+  toolbarColor: '#03989E',
   toolbarBackgroundColor: '#262626',
   toolbarMenuItemBackgroundColor: '#333',
   toolbarMenuItemHoverBackgroundColor: '#414141',
-  toolbarLabelColor: '#e1e2e3',
+  toolbarLabelColor: '#03989E',
 
   // Accents
   borderColor: '#858585',
@@ -131,7 +131,7 @@ module.exports = {
 
   //
   // Menu
-  menuItemColor: '#e1e2e3',
+  menuItemColor: '#03989E',
   menuItemHoverColor: sonarrBlue,
   menuItemHoverBackgroundColor: '#606060',
 
